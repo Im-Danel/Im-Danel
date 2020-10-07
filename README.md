@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/759159585365295169/759166058455105556/FOS.gif" width="100px">
+   <br><br>
+  <samp>
+    👋 Salve.
+  </samp>
+</p>
+  
+<p align="center">
+  <br>:exclamation: Atualmente Estou Tentando Aprender JS.
+  <br>:video_game: Curto Jogar CS:GO, Rocket League, R6, E Alguns Outros Jogos.
+  <br><br>
+</p>
 
-<!--
-**Im-Danel/Im-Danel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/-@danielboelhower-FFA568?style=flat-rounded&labelColor=FFA568&logo=twitter&logoColor=202020&link=https://twitter.com/danielboelhower)](https://twitter.com/danielboelhower) 
+[![Discord Badge](https://img.shields.io/badge/-Source%20Open%20Source-121419?style=flat-square&logo=Discord&logoColor=4ED4FF&link=https://discord.gg/SUYfBgE)](https://discord.gg/SUYfBgE)
