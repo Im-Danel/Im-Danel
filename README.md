@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/759159585365295169/759166058455105556/FOS.gif" width="100px">
    <br><br>
   <samp>
-    👋 Salve.
+    👋 Olá.
   </samp>
 </p>
   
