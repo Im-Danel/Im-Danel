@@ -12,5 +12,5 @@
   <br><br>
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-FFA568?style=flat-rounded&labelColor=FFA568&logo=twitter&logoColor=202020&link=https://twitter.com/danielboelhower)](https://twitter.com/danielboelhower) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-FFA568?style=flat-rounded&labelColor=FFA568&logo=twitter&logoColor=202020&link=https://twitter.com/imdanel_)](https://twitter.com/imdanel_) 
 [![Discord Badge](https://img.shields.io/badge/-Discord-121419?style=flat-square&logo=Discord&logoColor=4ED4FF&link=https://discord.gg/SUYfBgE)](https://discord.gg/SUYfBgE)
