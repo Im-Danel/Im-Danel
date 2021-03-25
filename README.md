@@ -6,6 +6,11 @@
   </samp>
 </p>
   
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playingg.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22ajhqjl6t3w3vrehn4cgz5pi)
+
+<br />  
+  
 <p align="center">
   <br>:exclamation: Atualmente Estou Tentando Aprender JS.
   <br>:video_game: Curto Jogar CS:GO, Rocket League, R6, E Alguns Outros Jogos.
