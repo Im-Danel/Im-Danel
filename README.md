@@ -6,6 +6,8 @@
   </samp>
 </p> 
   
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ajhqjl6t3w3vrehn4cgz5pi&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)  
+  
 <p align="center">
   <br>:exclamation: Atualmente Estou Tentando Aprender JS.
   <br>:video_game: Curto Jogar CS:GO, Rocket League, R6, E Alguns Outros Jogos.
