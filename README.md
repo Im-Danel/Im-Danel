@@ -8,9 +8,7 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ajhqjl6t3w3vrehn4cgz5pi&cover_image=true&theme=novatorem)](https://github.com/Im-Danel)
 
-<a href="https://top.gg/bot/724787832471945358">
-  <img src="https://top.gg/api/widget/724787832471945358.svg" alt="Onofre, A Lagartixa" />
-  </a>
+<a href="https://discordbotlist.com/bots/724787832471945358"><img src="https://discordbotlist.com/api/v1/bots/724787832471945358/widget"></a>
   
 <p align="center">
   <br>:exclamation: Atualmente Estou Tentando Aprender JS.
