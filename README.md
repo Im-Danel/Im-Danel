@@ -26,5 +26,4 @@
   <img align="left" alt="Onofre" width="33px" src="https://pbs.twimg.com/media/Dm-giHeXgAARFPi.jpg" />
 </a> - Bot para Discord, focado em diversão e comandos para FiveM.
 
-
 ---
