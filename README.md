@@ -5,8 +5,6 @@
     👋 Olá.
   </samp>
 </p> 
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ajhqjl6t3w3vrehn4cgz5pi&cover_image=true&theme=novatorem)](https://github.com/Im-Danel)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-FFA568?style=flat-rounded&labelColor=FFA568&logo=twitter&logoColor=202020&link=https://twitter.com/imdanel_)](https://twitter.com/imdanel_) 
 [![Discord Badge](https://img.shields.io/badge/-Discord-121419?style=flat-square&logo=Discord&logoColor=4ED4FF&link=https://discord.gg/fmpstore)](https://discord.gg/fmpstore)
