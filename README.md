@@ -22,8 +22,4 @@
 
 ### **Projetos:**
 
-**Onofre** <a target="_blank" href="https://discord.gg/gaqWzp8tWS">
-  <img align="left" alt="Onofre" width="33px" src="https://pbs.twimg.com/media/Dm-giHeXgAARFPi.jpg" />
-</a> - Bot para Discord, focado em diversão e comandos para FiveM.
-
 ---
