@@ -6,7 +6,7 @@
   </samp>
 </p> 
 
-<a target="_blank" href="https://www.youtube.com/channel/UCxmh6HhlGDGOELNlDqQS12gr">
+<a target="_blank" href="https://www.youtube.com/channel/UCxmh6HhlGDGOELNlDqQS12g">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 <a target="_blank" href="https://discord.gg/infinitystore">
