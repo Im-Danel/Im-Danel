@@ -9,7 +9,7 @@
 <a target="_blank" href="https://www.youtube.com/channel/UCxmh6HhlGDGOELNlDqQS12gr">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
-<a target="_blank" href="https://discord.gg/fmpstore">
+<a target="_blank" href="https://discord.gg/infinitystore">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
 <a target="_blank" href="https://www.twitch.tv/imdanel_">
