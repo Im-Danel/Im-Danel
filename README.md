@@ -7,10 +7,10 @@
 </p> 
 
 <a target="_blank" href="https://www.youtube.com/channel/UCxmh6HhlGDGOELNlDqQS12g">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
-<a target="_blank" href="https://discord.gg/fmpstore">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+<a target="_blank" href="https://www.instagram.com/danel_bs">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://www.twitch.tv/imdanel_">
   <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />
