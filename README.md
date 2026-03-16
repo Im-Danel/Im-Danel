@@ -1,5 +1,3 @@
-<h1 align="center">Daniel Boelhouwer Schmitt</h1>
-
 <p align="center">
   Estudante de Engenharia de Controle e Automação <br>
   Focado em Software, Robótica e Sistemas Embarcados
