@@ -1,14 +1,3 @@
-<p align="center">
-  Estudante de Engenharia de Controle e Automação <br>
-  Focado em Software, Robótica e Sistemas Embarcados
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/daniel-bschmitt">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-  </a>
-</p>
-
 ---
 
 <h2>Sobre mim</h2>
@@ -27,7 +16,7 @@ envolvendo visão computacional, jogos e integração hardware-software.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,arduino,raspberrypi,unity,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,arduino,unity,discordjs,bots" />
 
 </p>
 
@@ -42,17 +31,5 @@ envolvendo visão computacional, jogos e integração hardware-software.
 <li>Internet das Coisas (IoT)</li>
 <li>Visão Computacional</li>
 </ul>
-
----
-
-<h2>GitHub Stats</h2>
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Im-Danel&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Danel&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
