@@ -1,35 +1,20 @@
----
+## Sobre mim
 
-<h2>Sobre mim</h2>
+Estudante de **Engenharia de Controle e Automação na UFSM**, interessado em desenvolvimento de software aplicado à engenharia, robótica, visão computacional e sistemas embarcados.
 
-<p>
-Estudante de Engenharia de Controle e Automação interessado em desenvolvimento de software,
-robótica, visão computacional e sistemas embarcados.
-
-Tenho experiência com desenvolvimento em Python e linguagens da família C, além de projetos
-envolvendo visão computacional, jogos e integração hardware-software.
-</p>
+Possuo experiência prática com desenvolvimento em **Python**, **família C (C/C++/C#)** e **JavaScript**, além de projetos envolvendo visão computacional, jogos e integração hardware-software.
 
 ---
 
-<h2>Tecnologias</h2>
+## Tecnologias
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,arduino,unity,discordjs,bots" />
-
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,arduino,unity,opencv,discordjs,bots,git" />
 
 ---
 
-<h2>Áreas de Interesse</h2>
+## Áreas de Atuação e Interesse
 
-<ul>
-<li>Robótica</li>
-<li>Sistemas Embarcados</li>
-<li>Automação</li>
-<li>Internet das Coisas (IoT)</li>
-<li>Visão Computacional</li>
-</ul>
-
----
+- 🤖 **Robótica & Automação Industrial**
+- 🧠 **Visão Computacional & Processamento de Imagens**
+- ⚡ **Sistemas Embarcados & Internet das Coisas (IoT)**
+- 🎮 **Desenvolvimento de Software & Jogos (Unity / C#)**
